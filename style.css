@@ -1,0 +1,25 @@
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-image: url(./clouds-\ \(1\).avif);
+    text-align: center;
+    margin: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+#weather-container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: purple;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+#weather-icon {
+    max-width: 200px;
+    margin: 0 auto;
+}
